@@ -1,5 +1,7 @@
 ### Hi There
 
+<p align="center"><img src="https://socialify.git.ci/namitkumarsingh97/namitkumarsingh97/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/namit-kumar-singh-1b5b33103/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:singhnamit83@gmail.com?subject=Hello%20Namit,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
